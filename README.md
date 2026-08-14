@@ -138,9 +138,4 @@ An interactive, multi-tiered educational web application dedicated to exploring 
 
 ---
 
-## 📄 License & Attribution
-
 - **Author & Developer:** Muhammad Abdullah, SED, UET Taxila.
-- This project is created for educational, historical awareness, and heritage celebration purposes. All historical records, dates, and achievements are verified against standard historical archives.
-
-Distributed under the **MIT License**.
