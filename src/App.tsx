@@ -320,7 +320,7 @@ export default function App() {
 
           <div id="footer-author-credit" className="pt-3 border-t border-emerald-800/80">
             <p className="text-xs sm:text-sm font-bold text-amber-300 tracking-wide font-['Outfit']">
-              Made by Muhammad Abdullah, SED
+              Made by Muhammad Abdullah, SED, UET Taxila.
             </p>
           </div>
         </div>
