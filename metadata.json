@@ -1,0 +1,6 @@
+{
+  "name": "Pakistan Heritage Quiz",
+  "description": "An interactive trivia quiz celebrating Pakistan's 79th Independence Day with in-depth historical explanations for every option.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
